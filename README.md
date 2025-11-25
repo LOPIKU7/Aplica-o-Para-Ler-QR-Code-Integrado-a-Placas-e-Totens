@@ -38,8 +38,7 @@ Para testar a aplicação, utilize um QR Code contendo o seguinte formato:
 <img width="690" height="690" alt="image" src="https://github.com/user-attachments/assets/b5d7c51a-9c37-4b4a-bd92-fe3971b3941d" />
 
 ## Escaneamento do QRCode
-<img width="1024" height="1599" alt="image" src="https://github.com/user-attachments/assets/4396a81a-e87c-4b4a-be75-1ebeab41fb20" />
-
+![Imagem do WhatsApp de 2025-11-24 à(s) 22 13 23_0ab0fc5f](https://github.com/user-attachments/assets/8278012e-a509-403d-98db-de708702877e)
 
 ## Resultado do Escaneamento Feito Pela Aplicação
 ![Imagem do WhatsApp de 2025-11-24 à(s) 21 54 37_a27f7470](https://github.com/user-attachments/assets/464f4c48-6f91-42f1-86d2-1c975aa88a97)
